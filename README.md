@@ -1,7 +1,6 @@
-- 👋 I’m Denis Vasiliev (@serendave)
-- 👀 I’m interested in Front-end development and React ecosystem
-- 🌱 I’m currently learning Angular, CI/CD tools and would like to widen my knowledge in Application Architecture and Cloud Engineering tools
-- 💞️ I’m looking to collaborate on the things described above.
+- 👋 I’m Denis (@serendave)
+- 👀 I’m a seasoned Front-end Engineer with over 5 years of experience building with TypeScript and React ecosystem.
+- 🌱 I’m currently interested in leveraging AI assisted development, Cloud and Software Architecture. 
 
 <!---
 serendave/serendave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
